@@ -938,9 +938,9 @@ footer small {
         line-height: 1;
     }
     .texto-cifras-bajadas {
-        font-size: 0.75rem;
+        font-size: 0.85rem;
         margin-top: 0;
-        letter-spacing: 1px;
+        letter-spacing: 0;
         line-height: 1;
     }
     .padding-cifras {
