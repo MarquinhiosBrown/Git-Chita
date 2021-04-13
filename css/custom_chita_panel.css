@@ -1,0 +1,10 @@
+.btn-chita {
+    background-color: #d1a548;
+    border-color: #d1a548;
+    color: #fff;
+    padding-right: 1.75rem !important;
+    padding-left: 1.75rem !important;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 0.9rem; 
+}
